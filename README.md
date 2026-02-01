@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm omandhaaptd
 
-<!--
-**omandhaaptd/omandhaaptd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Da Vinci Student**  
+💻 **Hobbyist Programmer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 📚 Currently studying at **Da Vinci Student**
+- 🧠 Interested in **software development**, **programming languages**, and **system design**
+- 🛠 Programming is not just a skill for me, but a hobby and a way to explore ideas
+
+---
+
+## Interests
+
+- 🔹 Programming & Software Engineering  
+- 🔹 Open Source Projects  
+- 🔹 Exploring new technologies  
+
+---
+
+## GitHub
+
+- 📌 I use GitHub to:
+  - Practice coding
+  - Experiment with ideas
+  - Share and learn from open-source projects
+
+---
+
+> *Code, learn, and build step by step.*
